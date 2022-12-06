@@ -49,3 +49,8 @@ bpdy {
   /* border: 1px solid orange; */
   padding: 10px 0;
 }
+
+.img {
+  width: 500px;
+  height: 300px;
+}
